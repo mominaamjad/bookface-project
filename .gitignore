@@ -1,0 +1,7 @@
+# Ignore IntelliJ IDEA specific files
+.idea/
+out/
+
+*.txt
+*.iml
+*.class
