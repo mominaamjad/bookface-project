@@ -15,16 +15,34 @@
 
 **Bookface** is a social media management system inspired by Facebook, built using Java Swing for the graphical user interface (GUI) and file handling for data management. This project showcases object-oriented programming (OOP) principles and offers core functionalities found in social media platforms.
 
+<div align="center">
+  <img src="images/main-screen.png" alt="Main Screen" width="100%"/>
+</div>
+
 ### Features
 
 - **User Management**: 
   - Sign up and log in to the system.
+  <div align="center">
+   <img src="images/signup-screen.png" alt="Sign up" width="75%"/>
+  </div>
+   
   - Add or delete friends.
   - Search for users and send friend requests.
+  <div align="center">
+    <img src="images/friend-request.png" alt="Friend Request" width="75%"/>
+  </div>
+
+
+
 
 - **Posts Management**: 
   - Create, edit, and delete posts.
   - Like and comment on posts.
+
+  <div align="center">
+    <img src="images/dashboard.png" alt="Posts on Dashboard" width="75%"/>
+  </div>
 
 - **File Handling**: 
   - Persistent storage of user data and posts.
@@ -41,6 +59,7 @@
 
    ```sh
    git clone https://github.com/mominaamjad/bookface-project.git
+2. Run file `Runner.java`
 
 ## Usage
 
